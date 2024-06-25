@@ -1,0 +1,12 @@
+#Instructions 
+# docker --help 
+# docker image -help 
+# docker image build -t web1 . 
+
+#Now let's actually make this thing work.
+#1 Open your docker app on your computer.
+#2 docker image build -t web1 . 
+#3 if you have an error, it means you didn't do #1
+#4 docker image inspect web1 
+#5 docker image ls
+#5 docker image rm web1 

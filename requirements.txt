@@ -1,0 +1,14 @@
+# Updates:
+#   Nov 2019: Update Flask to 1.1.1
+#   Apr 2022: Update Flask to 2.0.3
+Flask==2.0.3
+
+# Hello. This is Malgus from the past (3550 BY to be exact). A few of Flask's
+# dependencies were recently updated that aren't backwards compatible.
+#
+# These packages are all dependencies of Flask and now we're locking them to
+# a specific version that will work with the version of Flask we're using.
+itsdangerous==2.0.1
+markupsafe==2.0.1
+werkzeug==2.0.3
+jinja2==3.0.3
