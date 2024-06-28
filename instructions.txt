@@ -9,4 +9,5 @@
 #3 if you have an error, it means you didn't do #1
 #4 docker image inspect web1 
 #5 docker image ls
-#6 docker image rm web1 
+#6 docker run --name container_keisha1 -d yomommablackweb1
+#7 docker image rm web1 
