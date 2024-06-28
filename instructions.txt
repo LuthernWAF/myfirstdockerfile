@@ -9,4 +9,4 @@
 #3 if you have an error, it means you didn't do #1
 #4 docker image inspect web1 
 #5 docker image ls
-#5 docker image rm web1 
+#6 docker image rm web1 
